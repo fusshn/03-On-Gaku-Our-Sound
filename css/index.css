@@ -58,7 +58,7 @@ header {
   }
 }
 header .logo {
-  background-image: url(../img/logo.jfif);
+  background-image: url("/img/logo.jfif");
   background-size: cover;
   width: 260px;
   height: 150px;
@@ -159,7 +159,7 @@ header .nav-btn-all .nav-btn:hover {
 }
 
 .container {
-  background-image: url(../img/walking.jpg);
+  background-image: url("/img/walking.jpg");
   background-size: cover;
   flex-grow: 1;
   height: 100%;
@@ -223,7 +223,7 @@ header .nav-btn-all .nav-btn:hover {
   }
 }
 .container .content .img-1 {
-  background-image: url(../img/guitar.jpg);
+  background-image: url("/img/guitar.jpg");
 }
 @media (max-width: 1370px) {
   .container .content .img-1 {
@@ -244,7 +244,7 @@ header .nav-btn-all .nav-btn:hover {
   }
 }
 .container .content .img-2 {
-  background-image: url(../img/BsZkxDZ.jpeg);
+  background-image: url("/img/BsZkxDZ.jpeg");
 }
 @media (max-width: 1370px) {
   .container .content .img-2 {
@@ -267,7 +267,7 @@ header .nav-btn-all .nav-btn:hover {
   }
 }
 .container .content .img-3 {
-  background-image: url(../img/inschool.jpg);
+  background-image: url("/img/inschool.jpg");
 }
 @media (max-width: 1370px) {
   .container .content .img-3 {
